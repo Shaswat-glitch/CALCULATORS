@@ -85,7 +85,12 @@
     background-color: var(--red);
     color: white;
 }
-
+img{
+    width: 50%;
+    height: 50%;
+    margin-left: 35px;
+    margin-top: 5px;
+}
 #button-zero {
     width: 50%;
 }
